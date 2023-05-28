@@ -1,3 +1,4 @@
+![logo](asd.png)
 <h1 align="center">Hola 👋! Yo soy Tomas Emilio Avila</h1>
 <h3 align="center">Soy un desarrollador stack MERN, de nivel junior. Mi objetivo antes de los 18 es haber creado una gran cantidad de proyectos y soluciones que beneficien al usuario, que pueda cuburir una necesidad. Actualmente soy Autodidacta, por lo tanto mi aprendizaje y mis proyectos no son muy completos o su produccion es lenta pero me alegra aprender y mostrar mis conocimientos</h3>
 
