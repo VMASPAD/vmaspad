@@ -1,6 +1,6 @@
 ![logo](asd.png)
 <h1 align="center">Hola 👋! Yo soy Tomas Emilio Avila</h1>
-<h3 align="center">Soy un desarrollador stack MERN, de nivel junior. Mi objetivo antes de los 18 es haber creado una gran cantidad de proyectos y soluciones que beneficien al usuario, que pueda cuburir una necesidad. Actualmente soy Autodidacta, por lo tanto mi aprendizaje y mis proyectos no son muy completos o su produccion es lenta pero me alegra aprender y mostrar mis conocimientos</h3>
+<h3 align="center">Soy un desarrollador full stack MERN de nivel junior. Mi objetivo antes de los 18 años es crear una gran cantidad de proyectos y soluciones que beneficien a los usuarios y puedan satisfacer diversas necesidades. Actualmente, soy autodidacta, lo que significa que mi aprendizaje y la producción de mis proyectos pueden no ser muy completos o ser más lentos, pero me alegra aprender y mostrar mis conocimientos.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vmaspad&label=Profile%20views&color=0e75b6&style=flat" alt="vmaspad" /> </p>
 
