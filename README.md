@@ -7,11 +7,18 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vmaspad" alt="vmaspad" /></a> </p>
 
-- Este es mi portafolio para demostrar mis creaciones en diferentes categorias [Portafolio](https://portfoliotavm.me/)
 
-- Este fue uno de mis primeros proyectos mas completos que hice en mis inicios, se trata de una pagina web de tokens [WebToken](https://vmaspad.github.io/backup/index.html)
+# Popular Projects
+<a href="https://github.com/aastha12/MDX-Food-Safety-Hackathon">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=VMASPAD&repo=webbuilder-ai&theme=onedark" />
+</a>  
 
-- Esta es una pagina mas basica probando frameworks como tailwindcss, su funcion es mostrar un producto o el perfil de un portfolio [DTAW](https://portfoliotavm.me/hub/index-adaptive-colors.html)
+
+<a href="https://github.com/aastha12/Loan_Prediction">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=VMASPAD&repo=Island&theme=onedark" />
+</a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
