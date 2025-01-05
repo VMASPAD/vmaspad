@@ -1,5 +1,6 @@
-![logo](asd.png)
-<h1 align="center">Hola 👋! Yo soy Tomas Emilio Avila</h1>
+![banner yo](https://github.com/user-attachments/assets/df844eff-542f-4402-b12a-57738d2e8645)
+
+<h1 align="center">Hola!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="border-radius: 20px;"> Soy Tomas Emilio Avila</h1>
 <h3 align="center">Soy un desarrollador full stack MERN de nivel junior. Mi objetivo antes de los 18 años es crear una gran cantidad de proyectos y soluciones que beneficien a los usuarios y puedan satisfacer diversas necesidades. Actualmente, soy autodidacta, lo que significa que mi aprendizaje y la producción de mis proyectos pueden no ser muy completos o ser más lentos, pero me alegra aprender y mostrar mis conocimientos.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vmaspad&label=Profile%20views&color=0e75b6&style=flat" alt="vmaspad" /> </p>
