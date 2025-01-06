@@ -21,8 +21,18 @@
 </a> 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<div align="center">
+  <h2>💻 Connect with me!</h2>
+  <div>
+    <a href="https://www.linkedin.com/in/tomas-emilio-avila/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://portfoliotavm.com/" target="_blank">
+      <img src="https://img.shields.io/badge/My_Website-000000?style=for-the-badge&logo=web&logoColor=white" alt="Website" />
+    </a>
+  </div>
+</div>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
