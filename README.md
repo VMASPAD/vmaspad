@@ -43,4 +43,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vmaspad&show_icons=true&locale=en" alt="vmaspad" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vmaspad&" alt="vmaspad" /></p>
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=VMASPAD&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=VMASPAD&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
