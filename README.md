@@ -20,6 +20,11 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=VMASPAD&repo=Island&theme=onedark" />
 </a> 
 
+<div style="max-width: 400px; margin: 20px auto; padding: 20px; border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); text-align: center; font-family: Arial, sans-serif; background-color: #fff;">
+  <h3 style="margin: 0 0 10px; color: #333; font-size: 20px;">My Apps from Play Store</h3>
+   <a href="https://play.google.com/store/apps/developer?id=Targ+Apps"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Google Play" style="width: 200px; margin: 0 auto 15px; display: block;" /></a>
+ </div>
+
 <h3 align="left">Connect with me:</h3>
 <div align="center">
   <h2>💻 Connect with me!</h2>
@@ -32,6 +37,7 @@
     </a>
   </div>
 </div>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
