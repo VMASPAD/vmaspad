@@ -35,6 +35,9 @@
     <a href="https://portfoliotavm.com/" target="_blank">
       <img src="https://img.shields.io/badge/My_Website-000000?style=for-the-badge&logo=web&logoColor=white" alt="Website" />
     </a>
+    <a href="https://marketplace.visualstudio.com/publishers/VMASPAD" target="_blank">
+      <img src="https://img.shields.io/badge/My_VS_Code_Extensions-25c2a0?style=for-the-badge&logo=web&logoColor=white" alt="Website" />
+    </a>
   </div>
 </div>
 
