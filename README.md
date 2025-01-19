@@ -24,7 +24,10 @@
   <h3 style="margin: 0 0 10px; color: #333; font-size: 20px;">My Apps from Play Store</h3>
    <a href="https://play.google.com/store/apps/developer?id=Targ+Apps"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Google Play" style="width: 200px; margin: 0 auto 15px; display: block;" /></a>
  </div>
-
+<h3 style="margin: 0 0 10px; color: #333; font-size: 20px;">My Visual Studio Code Extensions</h3>
+  <a href="https://marketplace.visualstudio.com/publishers/VMASPAD" target="_blank">
+    <img src="https://img.shields.io/badge/My_VS_Code_Extensions-25c2a0?style=for-the-badge&logo=web&logoColor=white" alt="Website" />
+  </a>
 <h3 align="left">Connect with me:</h3>
 <div align="center">
   <h2>💻 Connect with me!</h2>
@@ -34,9 +37,6 @@
     </a>
     <a href="https://portfoliotavm.com/" target="_blank">
       <img src="https://img.shields.io/badge/My_Website-000000?style=for-the-badge&logo=web&logoColor=white" alt="Website" />
-    </a>
-    <a href="https://marketplace.visualstudio.com/publishers/VMASPAD" target="_blank">
-      <img src="https://img.shields.io/badge/My_VS_Code_Extensions-25c2a0?style=for-the-badge&logo=web&logoColor=white" alt="Website" />
     </a>
   </div>
 </div>
