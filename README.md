@@ -57,7 +57,7 @@
     <img src="https://skillicons.dev/icons?i=nodejs,linux,figma,electron,django" />
     <img src="https://skillicons.dev/icons?i=dart,flutter,svelte,bash,astro" />
     <img src="https://skillicons.dev/icons?i=nextjs,rust,remix,mongodb" />
-    <img src="https://skillicons.dev/icons?i=markdown,rust" />
+    <img src="https://skillicons.dev/icons?i=markdown,github" />
   </a>
 </p>
 
