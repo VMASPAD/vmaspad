@@ -11,13 +11,13 @@
 # Popular Projects
 <a href="https://github.com/aastha12/MDX-Food-Safety-Hackathon">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=VMASPAD&repo=webbuilder-ai&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=VMASPAD&repo=readme-canvas&theme=onedark" />
 </a>  
 
 
 <a href="https://github.com/aastha12/Loan_Prediction">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=VMASPAD&repo=Island&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=VMASPAD&repo=xerck&theme=onedark" />
 </a> 
 
 <div style="max-width: 400px; margin: 20px auto; padding: 20px; border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); text-align: center; font-family: Arial, sans-serif; background-color: #fff;">
