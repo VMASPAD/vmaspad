@@ -36,7 +36,7 @@
 
   <h3 style="margin: 0 0 10px; color: #333; font-size: 20px;">NPM Proyects</h3>
   <a href="https://www.npmjs.com/settings/aspad89/packages" target="_blank">
-    <img src="https://img.shields.io/badge/My_YOUTUBE_CHANNEL-red?style=for-the-badge&logo=web&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/NPM_Proyects-red?style=for-the-badge&logo=web&logoColor=white" alt="Website" />
   </a>
 
 <h3 style="margin: 0 0 10px; color: #333; font-size: 20px;">Figma Extensions</h3>
