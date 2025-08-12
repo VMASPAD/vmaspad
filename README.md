@@ -33,6 +33,20 @@
   <a href="https://www.youtube.com/@vmcodeAspad" target="_blank">
     <img src="https://img.shields.io/badge/My_YOUTUBE_CHANNEL-red?style=for-the-badge&logo=web&logoColor=white" alt="Website" />
   </a>
+
+  <h3 style="margin: 0 0 10px; color: #333; font-size: 20px;">NPM Proyects</h3>
+  <a href="https://www.npmjs.com/settings/aspad89/packages" target="_blank">
+    <img src="https://img.shields.io/badge/My_YOUTUBE_CHANNEL-red?style=for-the-badge&logo=web&logoColor=white" alt="Website" />
+  </a>
+
+<h3 style="margin: 0 0 10px; color: #333; font-size: 20px;">Figma Extensions</h3>
+  <a href="https://www.figma.com/@vmcode" target="_blank">
+    <img src="https://img.shields.io/badge/Figma_Extensions-black?style=for-the-badge&logo=web&logoColor=white" alt="Website" />
+  </a>
+  <h3 style="margin: 0 0 10px; color: #333; font-size: 20px;">Figma Extensions</h3>
+  <a href="https://www.figma.com/@vmaspadlegion" target="_blank">
+    <img src="https://img.shields.io/badge/Figma_Extensions-black?style=for-the-badge&logo=web&logoColor=white" alt="Website" />
+  </a>
 <h3 align="left">Connect with me:</h3>
 <div align="center">
   <h2>💻 Connect with me!</h2>
