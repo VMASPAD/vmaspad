@@ -1,73 +1,51 @@
-![banner yo](https://github.com/user-attachments/assets/df844eff-542f-4402-b12a-57738d2e8645)
+# Hi, I'm Tomas Emilio Avila 👋
 
-<h1 align="center">Hola!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="border-radius: 20px;"> Soy Tomas Emilio Avila</h1>
-<h4 align="center">Me gusta innovar a la hora de alcanzar un objetivo, descubrir nuevos métodos o crearlos. Saber que en ese proceso puedo mejorar mis habilidades para alcanzar nuevos desafíos me mantiene apasionado por hacerlo.</h3>
+📍 **Buenos Aires, Argentina** | 🤖 **Innovator & Builder** | 🚀 **Cross-Platform Developer** | 🖥️ **FullStack Software Developer**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vmaspad&label=Profile%20views&color=0e75b6&style=flat" alt="vmaspad" /> </p>
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Tauri](https://img.shields.io/badge/-Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vmaspad" alt="vmaspad" /></a> </p>
+> I like to innovate when achieving a goal, discovering new methods, or creating them. Knowing that in the process I can improve my skills to reach new challenges keeps me passionate about what I do.
 
+## Current Projects & Open Source
 
-# Popular Projects
-<a href="https://github.com/aastha12/MDX-Food-Safety-Hackathon">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=VMASPAD&repo=readme-canvas&theme=onedark" />
-</a>  
+- 🧩 **[Gnome React UI](https://github.com/VMASPAD/gnome-react-ui)** - Beautifully designed React components inspired by the GNOME Human Interface Guidelines. 
+- 🐧 **[PanOS](https://github.com/VMASPAD/PanOS)** - A minimal Linux operating system with Node.js built in, bootable in QEMU and from ISO. 
+- 🎨 **[ogl-editor](https://github.com/VMASPAD/ogl-editor)** - A powerful, browser-based WebGL/GLSL shader editor with intelligent IntelliSense, real-time preview, and advanced development features. Built with modern web technologies for an exceptional developer experience. 
+- 🗄️ **[WarpFS](https://github.com/VMASPAD/WarpFS)** - A modern, secure, and feature-rich file system interface for the browser, built with React, TypeScript, and Node.js to manage files on your VPS and access the CDN. 
+- 🧠 **[chromeAI](https://github.com/VMASPAD/chromeAI)** - A modern web application that leverages Chrome 138+'s built-in AI APIs for translation, language detection, and text summarization. Built with React, TypeScript and Tailwind CSS. 
+- 📝 **[zettly](https://github.com/VMASPAD/zettly)** - Zettly is a cross-platform note-taking application built with Tauri, React, and TypeScript, using Vite as the build tool. 
+- ⚡ **[SarychDB](https://github.com/VMASPAD/SarychDB)** - High-performance Rust JSON database with parallel search, custom protocol, user isolation, security, and REST API. 
+- 📱 **[tauri-plugin-google-admob](https://github.com/VMASPAD/tauri-plugin-google-admob)** - A comprehensive Tauri plugin for integrating Google AdMob advertisements into your mobile applications. This plugin supports all major ad formats including banner, interstitial, rewarded, rewarded interstitial, and app open ads. 
+- 🌐 **[reqly](https://github.com/VMASPAD/reqly)** - A comprehensive, professional-grade API testing platform built with modern web technologies.
+- 🔍 **[view-apis](https://github.com/VMASPAD/view-apis)** - A React-based application for fetching, viewing, and editing JSON data from APIs. The app includes features like URL history, dark/light mode toggle, and a JSON viewer/editor. 
+- 🖌️ **[LoomlySDK](https://github.com/VMASPAD/LoomlySDK)** - An advanced visual canvas editor built with React, TypeScript, and Moveable.js that allows you to create, manipulate, and export visual elements intuitively. 
+- 🖼️ **[pngv](https://github.com/VMASPAD/pngv)** - A library and CLI tool for converting PNG images to color matrices and reconstructing them as PNG or SVG. 
+- 🎁 **[Freesets](https://github.com/VMASPAD/Freesets)** - Collection of free resources like icons, images, illustrations, components, libraries and more! 
+- ✍️ **[TextLatex](https://github.com/VMASPAD/text-latex)** - Write markdown, export latex.
+- 🔤 **[Atlas Fonts](https://github.com/VMASPAD/atlas-fonts)** - A next/fonts-like library for loading Google Fonts in React/TypeScript projects.
+- 🔧 **[Fast Git](https://github.com/VMASPAD/fast-git)** - A fast and efficient Git/GitHub CLI wrapper with custom aliases support.
+- 🛠️ **[JavaScript Workshop](https://github.com/VMASPAD/javascript-workshop)** - A modern, feature-rich JavaScript and full-stack web development environment built with Tauri, Preact, and TypeScript. Experience the power of a desktop IDE with the flexibility of web technologies.
+- 📄 **[Readme Canvas](https://github.com/VMASPAD/readme-canvas)** - README Canvas is a modern web application designed to make creating and editing README files for your projects easier and more intuitive. 
+- 🧭 **[Elara](https://github.com/VMASPAD/elara)** - A simple browser that provides basic navigation and usability functions, using Electron's webview and shadcn.
+- ☁️ **[Vercel Copy](https://github.com/VMASPAD/vercel-copy)** - A simple clone with the ability to export and deploy web pages easily, similar to Vercel.
+- 📊 **[JSONviewer2D](https://github.com/VMASPAD/JSONviewer2D)** - A simple clone with the ability to export and deploy web pages easily, similar to Vercel. *(Nota: Mantuve la misma descripción que pusiste en el original, pero considera actualizarla si pertenece a otro proyecto).*
 
+## Ecosystem & Tools
 
-<a href="https://github.com/aastha12/Loan_Prediction">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=VMASPAD&repo=xerck&theme=onedark" />
-</a> 
-
-<div style="max-width: 400px; margin: 20px auto; padding: 20px; border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); text-align: center; font-family: Arial, sans-serif; background-color: #fff;">
-  <h3 style="margin: 0 0 10px; color: #333; font-size: 20px;">My Apps from Play Store</h3>
-   <a href="https://play.google.com/store/apps/developer?id=Targ+Apps"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Google Play" style="width: 200px; margin: 0 auto 15px; display: block;" /></a>
- </div>
-<h3 style="margin: 0 0 10px; color: #333; font-size: 20px;">My Visual Studio Code Extensions</h3>
-  <a href="https://marketplace.visualstudio.com/publishers/VMASPAD" target="_blank">
-    <img src="https://img.shields.io/badge/My_VS_Code_Extensions-25c2a0?style=for-the-badge&logo=web&logoColor=white" alt="Website" />
-  </a>
-
-  <h3 style="margin: 0 0 10px; color: #333; font-size: 20px;">My YOUTUBE CHANNEL</h3>
-  <a href="https://www.youtube.com/@vmcodeAspad" target="_blank">
-    <img src="https://img.shields.io/badge/My_YOUTUBE_CHANNEL-red?style=for-the-badge&logo=web&logoColor=white" alt="Website" />
-  </a>
-
-  <h3 style="margin: 0 0 10px; color: #333; font-size: 20px;">NPM Proyects</h3>
-  <a href="https://www.npmjs.com/settings/aspad89/packages" target="_blank">
-    <img src="https://img.shields.io/badge/NPM_Proyects-red?style=for-the-badge&logo=web&logoColor=white" alt="Website" />
-  </a>
-
-<h3 style="margin: 0 0 10px; color: #333; font-size: 20px;">Figma Extensions</h3>
-  <a href="https://www.figma.com/@vmcode" target="_blank">
-    <img src="https://img.shields.io/badge/Figma_Extensions-black?style=for-the-badge&logo=web&logoColor=white" alt="Website" />
-  </a>
-  <h3 style="margin: 0 0 10px; color: #333; font-size: 20px;">Figma Extensions</h3>
-  <a href="https://www.figma.com/@vmaspadlegion" target="_blank">
-    <img src="https://img.shields.io/badge/Figma_Extensions-black?style=for-the-badge&logo=web&logoColor=white" alt="Website" />
-  </a>
-   <h3 style="margin: 0 0 10px; color: #333; font-size: 20px;">Crates IO Extensions</h3>
-  <a href="https://crates.io/users/VMASPAD" target="_blank">
-    <img src="https://img.shields.io/badge/Crates_IO_Extensions-orange?style=for-the-badge&logo=web&logoColor=white" alt="Website" />
-  </a>
-
-
-  
-<h3 align="left">Connect with me:</h3>
-<div align="center">
-  <h2>💻 Connect with me!</h2>
-  <div>
-    <a href="https://www.linkedin.com/in/tomas-emilio-avila/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://portfoliotavm.com/" target="_blank">
-      <img src="https://img.shields.io/badge/My_Website-000000?style=for-the-badge&logo=web&logoColor=white" alt="Website" />
-    </a>
-  </div>
-</div>
-
-
+I build and publish tools across multiple platforms:
+- 📱 **[Play Store Apps](https://play.google.com/store/apps/developer?id=Targ+Apps)** under *Targ Apps*
+- 💻 **[VS Code Extensions](https://marketplace.visualstudio.com/publishers/VMASPAD)**
+- 🎨 **[Figma Plugins](https://www.figma.com/@vmcode)** & **[Figma Plugins V2](https://www.figma.com/@vmaspadlegion)**
+- 📦 **[NPM Packages](https://www.npmjs.com/settings/aspad89/packages)**
+- 🦀 **[Crates.io Libraries](https://crates.io/users/VMASPAD)**
+- 📺 **[YouTube Channel](https://www.youtube.com/@vmcodeAspad)** sharing coding and development content.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
@@ -82,10 +60,25 @@
   </a>
 </p>
 
+## GitHub Activity
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vmaspad&show_icons=true&locale=en&layout=compact" alt="vmaspad" /></p>
+![GitHub Contribution Graph](https://ghchart.rshah.org/VMASPAD)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vmaspad&show_icons=true&locale=en" alt="vmaspad" /></p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=vmaspad&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" /> 
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vmaspad&" alt="vmaspad" /></p>
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=VMASPAD&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+## Connect
+
+[![Website](https://img.shields.io/badge/-portfoliotavm.com-000000?style=flat-square&logo=web&logoColor=white)](https://portfoliotavm.com/)
+[![LinkedIn](https://img.shields.io/badge/-Tomas_Emilio_Avila-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomas-emilio-avila/)
+[![YouTube](https://img.shields.io/badge/-vmcodeAspad-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@vmcodeAspad)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/VMASPAD)
+
+---
+
+### Philosophy
+
+> Building tools to solve complex problems. Whether it's crafting a new OS, optimizing a Rust database, or developing cross-platform apps, the goal is always to push boundaries and build things that matter.
+
+![banner](https://github.com/user-attachments/assets/df844eff-542f-4402-b12a-57738d2e8645)
