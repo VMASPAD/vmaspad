@@ -79,6 +79,6 @@ I build and publish tools across multiple platforms:
 
 ### Philosophy
 
-> Building tools to solve complex problems. Whether it's crafting a new OS, optimizing a Rust database, or developing cross-platform apps, the goal is always to push boundaries and build things that matter.
+> Imagining gives you the code, the code expresses you.
 
 ![banner](https://github.com/user-attachments/assets/df844eff-542f-4402-b12a-57738d2e8645)
