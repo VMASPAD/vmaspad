@@ -15,8 +15,10 @@
 
 ## Current Projects & Open Source
 
+- 🖌️ **[Telva](https://github.com/VMASPAD/telva)** - This repository contains the Telva ecosystem: reusable drawing libraries, a Next.js web app, and runnable Vite examples. 
 - 🧩 **[Gnome React UI](https://github.com/VMASPAD/gnome-react-ui)** - Beautifully designed React components inspired by the GNOME Human Interface Guidelines. 
-- 🐧 **[PanOS](https://github.com/VMASPAD/PanOS)** - A minimal Linux operating system with Node.js built in, bootable in QEMU and from ISO. 
+- 🐧 **[PanOS](https://github.com/VMASPAD/PanOS)** - A minimal Linux operating system with Node.js built in, bootable in QEMU and from ISO.
+- 🐧 **[Prompt Maker](https://github.com/VMASPAD/Prompt-maker)** -  The Ultimate Node-Based Prompt & Thought Flow Creator. 
 - 🎨 **[ogl-editor](https://github.com/VMASPAD/ogl-editor)** - A powerful, browser-based WebGL/GLSL shader editor with intelligent IntelliSense, real-time preview, and advanced development features. Built with modern web technologies for an exceptional developer experience. 
 - 🗄️ **[WarpFS](https://github.com/VMASPAD/WarpFS)** - A modern, secure, and feature-rich file system interface for the browser, built with React, TypeScript, and Node.js to manage files on your VPS and access the CDN. 
 - 🧠 **[chromeAI](https://github.com/VMASPAD/chromeAI)** - A modern web application that leverages Chrome 138+'s built-in AI APIs for translation, language detection, and text summarization. Built with React, TypeScript and Tailwind CSS. 
