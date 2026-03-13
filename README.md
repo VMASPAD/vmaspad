@@ -43,6 +43,7 @@
 
 I build and publish tools across multiple platforms:
 - 📱 **[Play Store Apps](https://play.google.com/store/apps/developer?id=Targ+Apps)** under *Targ Apps*
+- 📦 **[Chrome Web Store](https://chromewebstore.google.com/detail/chrome-ai-playground/dcmocbmlpaneabpbihldcdlabkgmcfac?hl=es)**
 - 💻 **[VS Code Extensions](https://marketplace.visualstudio.com/publishers/VMASPAD)**
 - 🎨 **[Figma Plugins](https://www.figma.com/@vmcode)** & **[Figma Plugins V2](https://www.figma.com/@vmaspadlegion)**
 - 📦 **[NPM Packages](https://www.npmjs.com/settings/aspad89/packages)**
