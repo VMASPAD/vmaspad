@@ -10,7 +10,6 @@
 ![Tauri](https://img.shields.io/badge/-Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-[![committers.top badge](https://user-badge.committers.top/argentina_public/VMASPAD.svg)](https://user-badge.committers.top/argentina_public/VMASPAD)
 > I like to innovate when achieving a goal, discovering new methods, or creating them. Knowing that in the process I can improve my skills to reach new challenges keeps me passionate about what I do.
 
 ## Current Projects & Open Source
