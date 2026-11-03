@@ -1,3 +1,5 @@
+<img width="1584" height="396" alt="banner" src="https://github.com/user-attachments/assets/8115af6e-60c0-48b3-8628-b79c4c7bddf5" />
+
 # Hi, I'm Tomas Emilio Avila 👋
 
 📍 **Buenos Aires, Argentina** | 🤖 **Innovator & Builder** | 🚀 **Cross-Platform Developer** | 🖥️ **FullStack Software Developer**
@@ -83,4 +85,4 @@ I build and publish tools across multiple platforms:
 
 > Imagining gives you the code, the code expresses you.
 
-![banner](https://github.com/user-attachments/assets/df844eff-542f-4402-b12a-57738d2e8645)
+
